@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 inline int min(int a, int b) {
     if (a < b) {
         return a;

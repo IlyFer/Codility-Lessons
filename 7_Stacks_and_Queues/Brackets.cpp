@@ -1,3 +1,8 @@
+#include <string>
+#include <stack>
+
+using namespace std;
+
 inline char matchingCharacter(const char& element) {
     char result = '\0';
 
@@ -13,7 +18,6 @@ inline char matchingCharacter(const char& element) {
 }
 
 int solution(string &S) {
-    // write your code in C++14 (g++ 6.2.0)
     stack<char> stack;
     int result = 1;
     

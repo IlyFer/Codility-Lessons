@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 int solution(vector<int> &A) {
     int result = -1;
     int size = 0;

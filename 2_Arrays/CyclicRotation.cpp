@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 vector<int> solution(vector<int> &A, int K) {
     int N = A.size();
 

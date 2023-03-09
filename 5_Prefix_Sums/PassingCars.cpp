@@ -1,4 +1,9 @@
+#include <vector>
+
+using namespace std;
+
 const int maxPassingCars = 1000000000;
+
 int solution(vector<int> &A) {
     int numPassingCars = 0;
     int numEast = 0;

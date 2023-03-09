@@ -1,3 +1,7 @@
+#include <string>
+
+using namespace std;
+
 enum nested {notProperlyNested = 0, properlyNested};
 
 int solution(string &S) {

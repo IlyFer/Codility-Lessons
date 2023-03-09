@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 const int upperLimit = 1001;
 const int lowerLimit = -1001;
 

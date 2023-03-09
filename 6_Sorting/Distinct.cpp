@@ -1,5 +1,10 @@
+#include <vector>
+
+using namespace std;
+
 const int maxRange = 2000001;
 const int offset = 1000000;
+
 int solution(vector<int> &A) {
     int result = 0;
     int N = A.size();

@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 int solution(int X, vector<int> &A) {
     vector<int> leaves(X + 1, 0);
     int result = -1;

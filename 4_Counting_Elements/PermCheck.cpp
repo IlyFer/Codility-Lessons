@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 int solution(vector<int> &A) {
     int isPermutation = 1;
     int N = A.size();

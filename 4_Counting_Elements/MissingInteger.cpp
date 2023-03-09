@@ -1,4 +1,9 @@
+#include <vector>
+
+using namespace std;
+
 const unsigned maxValue = 1000000;
+
 int solution(vector<int> &A) {
     vector<unsigned> foundValues(maxValue + 1, 0);
     unsigned smallestMissing = 0;

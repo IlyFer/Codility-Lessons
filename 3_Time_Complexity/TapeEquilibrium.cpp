@@ -1,3 +1,7 @@
+#include <vector>
+
+using namespace std;
+
 inline int min (const int& a, const int& b) {
     int result = a;
 
@@ -9,7 +13,6 @@ inline int min (const int& a, const int& b) {
 }
 
 int solution(vector<int> &A) {
-    // write your code in C++14 (g++ 6.2.0)
     int interDifference = 0;
     int minDifference = -1;
     int leftPartSum = A[0];
