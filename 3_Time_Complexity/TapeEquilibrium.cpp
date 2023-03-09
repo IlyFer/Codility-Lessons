@@ -1,4 +1,4 @@
-int min (const int& a, const int& b) {
+inline int min (const int& a, const int& b) {
     int result = a;
 
     if (b < a) {

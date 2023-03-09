@@ -1,6 +1,4 @@
-#include <stack>
-
-char matchingCharacter(const char& element) {
+inline char matchingCharacter(const char& element) {
     char result = '\0';
 
     if (element == '(') {

@@ -1,4 +1,4 @@
-int max(const int& a, const int& b) {
+inline int max(const int& a, const int& b) {
     int result = a;
 
     if (b > a) {

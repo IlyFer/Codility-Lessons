@@ -1,7 +1,7 @@
 const int upperLimit = 1001;
 const int lowerLimit = -1001;
 
-int max (const int& a, const int& b) {
+inline int max (const int& a, const int& b) {
     int result = a;
 
     if (b > a) {
