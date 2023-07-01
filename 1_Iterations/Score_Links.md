@@ -1,0 +1,1 @@
+BinaryGap: https://app.codility.com/demo/results/training2X2YP6-SM2/
