@@ -1,0 +1,1 @@
+MaxProfit: https://app.codility.com/demo/results/training7SDBMK-98V/
